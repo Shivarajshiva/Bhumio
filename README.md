@@ -9,6 +9,4 @@ Go to "https://beamish-empanada-a56e27.netlify.app/"
 Maven, POM, #TESTNG version: 6.14.3, 
 #Selenium Java version : 3.141.59, #Browser: Chrome,
 #Please Run the Code by Using : #1. Runner Class or 
-#2. TESTNG.XML file
-or #3. POM.XML file.
-
+#2. TESTNG.XML file.
